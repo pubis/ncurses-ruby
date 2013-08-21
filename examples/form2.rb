@@ -1,4 +1,4 @@
-#!/usr/bin/ruby
+#!/usr/bin/env ruby
 # Copyright (c) 2004 by Simon Kaczor <skaczor@cox.net>
 # Simple example of a form in action, based on the NCURSES Programming HOWTO:
 # http://www.tldp.org/HOWTO/NCURSES-Programming-HOWTO/

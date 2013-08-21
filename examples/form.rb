@@ -1,4 +1,4 @@
-#!/usr/bin/ruby
+#!/usr/bin/env ruby
 # Copyright (c) 2004 by Simon Kaczor <skaczor@cox.net>
 # Example from the NCurses Programming HOWTO
 # This example uses module functions that are documented in the ncurses man page.
